@@ -14,7 +14,7 @@
 #### downloading Project 
 
 ```
-  git clone https://github.com/MmdBay/live-search-lyrics.git
+  git clone https://github.com/MmdBay/pintrest_downloader.git
 ```
 #### Installation in production mode
 
@@ -30,7 +30,7 @@
 Clone the project
 
 ```
-  git clone https://github.com/MmdBay/live-search-lyrics.git
+  git clone https://github.com/MmdBay/pintrest_downloader.git
 ```
 
 Go to the project directory
