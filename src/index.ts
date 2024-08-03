@@ -41,9 +41,7 @@ bot.command('start', async (ctx: Context) => {
         })
 
         await newUser.save()
-
-        await bot.api.sendMessage(1430613559, `New User ${ctx.from?.first_name} - @${ctx.from?.username} - ${ctx.from?.id}`);
-
+        
         mongoose.connection.close();
     } catch (error) {
         console.error(error + ' : bot.command(start)');
