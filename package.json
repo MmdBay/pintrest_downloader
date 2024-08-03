@@ -1,0 +1,27 @@
+{
+  "name": "pintrest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mongoose": "^5.11.97",
+    "@types/node": "^22.0.1",
+    "@types/node-fetch": "^2.6.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@types/cheerio": "^0.22.35",
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "grammy": "^1.27.0",
+    "mongoose": "^8.5.2"
+  }
+}
