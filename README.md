@@ -19,7 +19,7 @@
 #### Installation in production mode
 
 ```
-  cd .....
+  cd pintrest_downloader
   npm i
   tsc src/index
   node src/index.js
@@ -48,7 +48,8 @@ Install dependencies
 Start the server
 
 ```
-  cd .....
+  cd pintrest_downloader
+  nom i
   nodemon --exec ts-node src/index.ts
 ```
 
